@@ -1,0 +1,98 @@
+/* mi_estilo.css - Hoja de estilo para Star Wars */
+
+/* Clase para los miembros del Imperio - fondo rojo */
+.imperio {
+    background-color: red;
+    color: white;
+    padding: 8px;
+    margin: 3px 0;
+}
+
+/* Clase para los Rebeldes - fondo azul */
+.rebeldes {
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    margin: 3px 0;
+}
+
+/* ID para Darth Vader - aumentar tamaño de letra */
+#darth-vader {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* ID para Luke - texto en itálica */
+#luke {
+    font-style: italic;
+}
+
+/* Clase para soldados - borde a rayas y espaciado entre letras */
+.soldados {
+    border: 3px dashed #000000;
+    letter-spacing: 3px;
+}
+
+/* Clase para unidades de apoyo - texto centralizado */
+.unidades-apoyo {
+    text-align: center;
+}
+
+/* Clase para naves - texto en mayúsculas */
+.naves {
+    text-transform: uppercase;
+}
+
+/* Estilos adicionales para mejor presentación */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.4;
+}
+
+h1, h2 {
+    color: #FFD700;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 1.8em;
+    border-bottom: 2px solid #FFD700;
+    padding-bottom: 5px;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+/* Mantener las viñetas de las listas */
+ul {
+    padding-left: 40px;
+}
+
+li {
+    margin: 10px 0;
+    display: list-item;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #FFD700, transparent);
+    margin: 30px 0;
+}
