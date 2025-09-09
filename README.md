@@ -1,59 +1,62 @@
-# Ejercicio-individual-Formato-de-texto
-ejercicio-star-wars
+# ⭐ Star Wars CSS Exercise by Eugenia
 
-Ejercicio de IDs y Clases CSS - Star Wars
-Este proyecto es un ejercicio de HTML y CSS que muestra los bandos de Star Wars utilizando diferentes selectores CSS (IDs y clases).
-📋 Descripción
-Una página web temática de Star Wars que presenta:
+**Trabajo práctico – Diseño y Desarrollo Web (16505)**
 
-El Imperio: Con Darth Vader como líder, Storm Troopers, Caminantes y Tie Fighters
-Los Rebeldes: Con Luke Skywalker como líder, soldados, tanques y X-Wings
+**Autora:** Eugenia  
+**Fecha de entrega:** 08-09-2025
 
-🎨 Características CSS implementadas
-Clases utilizadas:
+## 🔗 Enlaces del proyecto
 
-.imperio - Fondo rojo para elementos del Imperio
-.rebeldes - Fondo azul para elementos rebeldes
-.soldados - Bordes a rayas y espaciado entre letras
-.unidades-apoyo - Texto centrado
-.naves - Texto en mayúsculas
+● **Repositorio en GitHub:** https://github.com/euge-90/Ejercicio-individual-Formato-de-texto  
+● **Sitio publicado en GitHub Pages:** https://euge-90.github.io/Ejercicio-individual-Formato-de-texto/
 
-IDs utilizados:
+## 📁 Estructura del repositorio
 
-#darth-vader - Texto grande y en negrita
-#luke - Texto en itálica
+● **index.html:** Página principal con los bandos de Star Wars  
+● **mi-estilo.css:** Hoja de estilos con selectores de clases e IDs  
+● **README.md:** Documentación del proyecto
 
-Características adicionales:
+## 📝 Descripción del ejercicio
 
-Diseño responsivo
-Imágenes con bordes redondeados y sombras
-Títulos con efectos de sombra dorada
-Líneas divisorias con gradientes
+Este proyecto fue desarrollado como parte del ejercicio práctico de la materia **Diseño y Desarrollo Web (16505)**. Se centra en la implementación de **selectores CSS** utilizando **clases e IDs** con temática de Star Wars.
 
-🚀 Cómo visualizar
+### 🎯 Objetivos técnicos implementados:
 
-Descarga los archivos index.html y mi-estilo.css
-Abre index.html en tu navegador web
-¡Disfruta de la página temática de Star Wars!
+- **Selectores por clase (.clase):** Para agrupar elementos del Imperio y Rebeldes
+- **Selectores por ID (#id):** Para elementos únicos como Darth Vader y Luke Skywalker
+- **Estilos de fondo:** Colores diferenciados por bandos (rojo/azul)
+- **Formateo de texto:** Mayúsculas, itálicas, espaciado entre letras
+- **Bordes y efectos visuales:** Bordes a rayas, sombras, gradientes
 
-📁 Estructura del proyecto
-star-wars-css-exercise/
-├── index.html
-├── mi-estilo.css
-└── README.md
-🎯 Objetivos de aprendizaje
+## 🌌 Contenido temático
 
-Uso de selectores CSS por clase (.clase)
-Uso de selectores CSS por ID (#id)
-Aplicación de estilos de fondo, texto y espaciado
-Estructuración HTML con listas anidadas
-Integración de imágenes externas
+La página presenta los dos bandos principales de Star Wars:
 
-🔧 Tecnologías utilizadas
+### 🔴 El Imperio
+- **Líder:** Darth Vader (con estilo especial de ID)
+- **Tropa:** Storm Troopers (con borde a rayas)
+- **Apoyo:** Caminantes y Tie Fighters
 
-HTML5
-CSS3
-Fuentes web (Arial, sans-serif)
+### 🔵 Los Rebeldes  
+- **Líder:** Luke Skywalker (con texto en itálica)
+- **Tropa:** Soldados rebeldes (con espaciado especial)
+- **Apoyo:** Tanques y X-Wings (texto en mayúsculas)
+
+## 💻 Tecnologías utilizadas
+
+- **HTML5:** Estructura semántica con listas anidadas
+- **CSS3:** Selectores avanzados, efectos visuales y responsive design
+- **GitHub Pages:** Para publicación del sitio web
+
+## 🎨 Características de diseño
+
+- Paleta de colores temática (dorado, rojo, azul)
+- Tipografía con efectos de sombra
+- Imágenes con bordes redondeados y sombras
+- Líneas divisorias con gradientes
+- Diseño responsive para diferentes dispositivos
+
+---
 
 
 Autor: Maria Eugenia Ojeda Lizondo
